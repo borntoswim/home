@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marek\\source\\repos\\home\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|c:\\users\\marek\\source\\repos\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|C:\\Users\\marek\\source\\repos\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|c:\\users\\marek\\source\\repos\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|C:\\Users\\marek\\source\\repos\\home\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,25 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\marek\\source\\repos\\home\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\marek\\source\\repos\\home\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAUwNkAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-08T11:41:02.118Z"
+              "WhenOpened": "2026-03-08T11:41:02.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "contact.html",
               "DocumentMoniker": "C:\\Users\\marek\\source\\repos\\home\\contact.html",
               "RelativeDocumentMoniker": "contact.html",
               "ToolTip": "C:\\Users\\marek\\source\\repos\\home\\contact.html",
               "RelativeToolTip": "contact.html",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwH4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-03-08T11:45:11.932Z",
               "EditorCaption": ""

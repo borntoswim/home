@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|c:\\users\\marek\\source\\repos\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|C:\\Users\\marek\\source\\repos\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|c:\\users\\marek\\source\\repos\\home\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|C:\\Users\\marek\\source\\repos\\home\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "style.css",
               "ViewState": "AgIAAMEYAAAAAAAAAAAowN8YAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-08T12:10:17.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T12:10:17.003Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-08T11:41:02.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T11:41:02.118Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "contact.html",
               "ToolTip": "C:\\Users\\marek\\source\\repos\\home\\contact.html",
               "RelativeToolTip": "contact.html",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAUwH4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwH4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-03-08T11:45:11.932Z",
               "EditorCaption": ""
