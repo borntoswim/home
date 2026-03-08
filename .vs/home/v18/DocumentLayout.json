@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\marek\\source\\repos\\home\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|C:\\Users\\marek\\source\\repos\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|c:\\users\\marek\\source\\repos\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|c:\\users\\marek\\source\\repos\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|C:\\Users\\marek\\source\\repos\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{215FFC22-EAA1-4C77-80D3-020A4F7223FE}|C:\\Users\\marek\\source\\repos\\home|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\marek\\source\\repos\\home\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAALwAAAAAAAAAAAAUwNkAAACIAAAAAAAAAA==",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAUwM4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-03-08T11:41:02.118Z",
               "EditorCaption": ""
@@ -63,8 +59,7 @@
               "RelativeToolTip": "contact.html",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAGsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-08T11:45:11.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T11:45:11.932Z"
             }
           ]
         }
